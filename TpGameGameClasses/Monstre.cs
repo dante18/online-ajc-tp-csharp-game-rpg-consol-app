@@ -4,6 +4,13 @@ internal class Monstre : Personnage, IDisposable
 {
     private bool disposedValue;
 
+    public Monstre(string nom, int maxHP, int attaque)
+    {
+        this.nom = nom;
+        this.maxHP = maxHP;
+        this.attaque = attaque;
+    }
+
     protected virtual void Dispose(bool disposing)
     {
         if (!disposedValue)
