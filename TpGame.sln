@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpGame", "TpGame\TpGame.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpGameAdmin", "TpGameAdmin\TpGameAdmin.csproj", "{8508C220-C1F1-426A-B1AC-E0021FBE497E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpGameGameClasses", "TpGameGameClasses\TpGameGameClasses.csproj", "{0EBEAAA3-8787-419B-9E98-10322B5BC649}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpGameCore", "TpGameGameClasses\TpGameCore.csproj", "{0EBEAAA3-8787-419B-9E98-10322B5BC649}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
