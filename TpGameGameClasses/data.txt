@@ -1,3 +1,0 @@
-monstre1;100;100
-monstre2;120;100
-monstre3;150;100
